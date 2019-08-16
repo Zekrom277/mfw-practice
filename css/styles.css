@@ -15,11 +15,13 @@ body{
 
 .col-md-3{
     height: 100px;
-    width: 200px;
+    width: 300px;
     position: relative;
     bottom: 250px;
     left: 300px;
     background-color: white;
+    border: solid blue 3px;
+    border-radius: 100px;
 }
 
 
@@ -28,7 +30,7 @@ body{
     width: 800px;
     position: relative;
     bottom: 150px;
-    left: 200px;
+    left: 100px;
     background-color: rgb(16, 165, 224)
 }
 
